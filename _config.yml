@@ -3,6 +3,7 @@ theme: jekyll-theme-cayman
 title: Dit domein is nog vrij
 description: Dit domein als het adres voor uw eigen website?
 show_downloads: false
+google_analytics: UA-121533786-12
 
 github:
   is_project_page: false
